@@ -1,0 +1,17 @@
+.input-box{
+    background-color: black;
+    height: 40rem;
+    color: azure;
+    font-family: 'Barlow', sans-serif;
+}
+.rw{
+    justify-content: center;
+    display: flex;
+}
+.btn{
+    justify-content: center;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 1.3rem;
+  
+}
