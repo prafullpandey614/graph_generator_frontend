@@ -2,7 +2,9 @@
     background-color: black;
     height: 40rem;
     color: azure;
+    border-radius: 3rem;
     font-family: 'Barlow', sans-serif;
+    border: 4px solid greenyellow;
 }
 .rw{
     justify-content: center;

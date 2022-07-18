@@ -2,6 +2,7 @@ import React from 'react'
 import "./home.css"
 import Input from './Input'
 const Home = () => {
+    // const [data, setData] = useState([])
   return (
     <div>
         <div className="container text-center">
